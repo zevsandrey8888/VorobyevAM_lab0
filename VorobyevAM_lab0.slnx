@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="VorobyevAM_lab0/VorobyevAM_lab0.vcxproj" />
+  <Project Path="VorobyevAM_lab0/VorobyevAM_lab0.vcxproj" Id="89b4f5bc-0e40-496d-9cd6-27cd3c6ba023" />
 </Solution>
